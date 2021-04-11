@@ -1,1 +1,1 @@
-hello AudioWorkletNode;
+var a = 10;
